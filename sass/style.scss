@@ -1,0 +1,21 @@
+@import "central";
+@import "intro";
+@import "greeting";
+@import "rules";
+@import "header";
+@import "social";
+@import "footer";
+
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(to bottom left, #ccdeeb, #84b39e);
+  background-color: #a8c8c4;
+
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer__made-in {
+  display: block;
+
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
