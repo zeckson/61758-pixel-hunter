@@ -1,6 +1,6 @@
 # Личный проект «Пиксель Хантер» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Алексей Енот](https://up.htmlacademy.ru/javascript/7/user/61758).
+* Студент: [Алексей Енот](https://up.htmlacademy.ru/ecmascript/1/user/61758).
 * Наставник: `Неизвестно`.
 
 ---
